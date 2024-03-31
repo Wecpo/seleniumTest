@@ -1,9 +1,5 @@
 {
-  "scripts": {
-    "start": "open-cli src/index.html"
-  },
   "dependencies": {
-    "open-cli": "^8.0.0",
     "selenium-webdriver": "^4.19.0"
   }
 }
