@@ -47,4 +47,4 @@ async function test(url) {
   }
 }
 
-test("http://127.0.0.1:51000/src/index.html");
+test("http://localhost:8080/");
